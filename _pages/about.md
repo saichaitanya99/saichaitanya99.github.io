@@ -2,33 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, Pulsar Astronomy · University of Southampton
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Physics & Astronomy</p>
+    <p>University of Southampton</p>
+    <p>Southampton, UK</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true      # shows papers marked  selected={true}  in papers.bib
+social: true               # shows the icons configured in _config.yml
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher in pulsar astronomy at the University of
+Southampton, working with <!-- TODO: supervisor / group link --> Greg Ashton.
+My research focuses on **pulsar timing**, **simulation-based inference (SBI)**,
+and **gravitational-wave detection** with pulsar timing arrays.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- TODO: 2–4 sentences in your own words. A suggested draft: -->
+I develop and apply Bayesian and simulation-based methods to precision pulsar
+timing, with the goal of improving the sensitivity of pulsar timing arrays to
+the nanohertz gravitational-wave background. I am a member of the EPTA, IPTA,
+and the SKA pulsar science working group. Previously I completed my PhD at the
+University of Galway, studying the interstellar medium and heliosphere with
+LOFAR.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Tips:
+  • Add your photo at  assets/img/prof_pic.jpg
+  • Fill your ORCID / Google Scholar / ADS IDs in _config.yml to light up the
+    social icons above.
+  • Papers appear automatically from _bibliography/papers.bib; the ones marked
+    selected={true} are featured here.
+  • Add short updates in _news/ (a sample announcement is included).
+-->
