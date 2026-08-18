@@ -150,7 +150,7 @@ Copilot should follow [.github/copilot-instructions.md](.github/copilot-instruct
 
 ## Documentation
 
-Comprehensive guides for all aspects of your  al-folio website:
+Comprehensive guides for all aspects of your al-folio website:
 
 - **[Documentation index](docs/README.md)** – All user, maintainer, and migration guides
 - **[Quick Start](docs/QUICKSTART.md)** – Get running in 5 minutes
