@@ -6,10 +6,10 @@ subtitle: Postdoctoral Researcher, Pulsar Astronomy · University of Southampton
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic
   image_circular: false
   more_info: >
-    <p>School of Physics & Astronomy</p>
+    <p>School of Mathematical Sciences</p>
     <p>University of Southampton</p>
     <p>Southampton, UK</p>
 
@@ -19,7 +19,7 @@ social: true               # shows the icons configured in _config.yml
 ---
 
 I am a postdoctoral researcher in pulsar astronomy at the University of
-Southampton, working with <!-- TODO: supervisor / group link --> Greg Ashton.
+Southampton, working with <!-- TODO: supervisor / group link --> Prof. Gregory Ashton.
 My research focuses on **pulsar timing**, **simulation-based inference (SBI)**,
 and **gravitational-wave detection** with pulsar timing arrays.
 
@@ -27,7 +27,7 @@ and **gravitational-wave detection** with pulsar timing arrays.
 I develop and apply Bayesian and simulation-based methods to precision pulsar
 timing, with the goal of improving the sensitivity of pulsar timing arrays to
 the nanohertz gravitational-wave background. I am a member of the EPTA, IPTA,
-and the SKA pulsar science working group. Previously I completed my PhD at the
+and the SKA pulsar science working group. Prior to this, I completed my PhD at the
 University of Galway, studying the interstellar medium and heliosphere with
 LOFAR.
 
