@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, Pulsar Astronomy · University of Southampton
 
 profile:
   align: right
-  image: prof_pic_sai.png
+  image: prof_pic_sai.jpg
   image_circular: false
   more_info: >
     <p>School of Mathematical Sciences</p>
