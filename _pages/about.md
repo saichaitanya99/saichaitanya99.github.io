@@ -14,8 +14,8 @@ profile:
     <p>Southampton, UK</p>
 
 news: true
-selected_papers: true      # shows papers marked  selected={true}  in papers.bib
-social: true               # shows the icons configured in _config.yml
+selected_papers: true # shows papers marked  selected={true}  in papers.bib
+social: true # shows the icons configured in _config.yml
 ---
 
 I am a postdoctoral researcher in pulsar astronomy at the University of
@@ -24,6 +24,7 @@ My research focuses on **pulsar timing**, **simulation-based inference (SBI)**,
 and **gravitational-wave detection** with pulsar timing arrays.
 
 <!-- TODO: 2–4 sentences in your own words. A suggested draft: -->
+
 I develop and apply Bayesian and simulation-based methods to precision pulsar
 timing, with the goal of improving the sensitivity of pulsar timing arrays to
 the nanohertz gravitational-wave background. I am a member of the EPTA, IPTA,
