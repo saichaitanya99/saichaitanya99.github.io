@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - saichaitanya99
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - saichaitanya99/IE613_timing_pipeline
+  - saichaitanya99/SWGP-for-Pulsar-Timing-Arrays
+  - saichaitanya99/Useful_scripts
+  - saichaitanya99/CMB-Master
+  # - saichaitanya99/pulsar-scripts # fork of Owen's scripts, not original work
+  # - saichaitanya99/pulsar_timing_school # fork
+  # - saichaitanya99/iterative_cleaner # fork

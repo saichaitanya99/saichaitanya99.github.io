@@ -1,189 +1,289 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sai Chaitanya Susarla
+  label: Postdoctoral Researcher
+  email: s.c.susarla@soton.ac.uk
+  location: Southampton, UK
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  summary: I am a postdoctoral researcher at the University of Southampton, UK. My research focuses on pulsar timing, gravitational waves and machine learning techniques in Astronomy.
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Instagram
+      username: saichaitanya99
     - network: GitHub
-      username: example
+      username: saichaitanya99
     - network: LinkedIn
-      username: example
+      username: saichaitanya99
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  # address:
+  #   street: 2712 Broadway St
+  #   city: San Francisco
+  #   region: California
+  #   postalCode: CA 94115
+  #   countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Galway
+        location: Galway, Ireland
+        url: https://www.uog.ie/
+        area: Physics & Astronomy
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2021
+        end_date: 2025
+        Thesis Title: "Examining Ecliptic pulsars using the low-frequency radio telescopes"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: Indian Institute of Science Education and Research (IISER) Thiruvananthapuram
+        location: Thiruvananthapuram, India
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        studyType: Integrated BSc. + M.Sc. (Dual Degree)
+        start_date: 2016
+        end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
+          - Majored in Physics and minored in Mathematics.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University of Southampton
+        position: Postdoctoral Researcher
+        location: Southampton, UK
+        start_date: 2026-06
+        end_date: present
+        summary: The main focus of my research is to develop machine learning techniques to perform profile domain timing of pulsars.
         highlights:
-          - Relativity
-          - Description 2.
+          - Pulsar timing
+          - Simulation Based Inference
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Royal Holloway, University of London
+        position: Postdoctoral Researcher
+        location: Egham, Surrey, UK
+        start_date: 2025-10
+        end_date: 2026-05
+        summary: The main focus of my research is to develop machine learning techniques to perform profile domain timing of pulsars.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Pulsar timing
+          - Simulation Based Inference
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    Teaching:
+      - company: University of Galway
+        position: Lab Leader, Physics 2nd Year Undergraduate Labs
+        location: Galway, Ireland
+        start_date: 2024-09
+        end_date: 2025-04
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: University of Galway
+        position: Summer Project Supervisor
+        location: Galway, Ireland
+        start_date: 2024-07
+        end_date: 2024-08
+        summary: "Title: Single pulses of the Crab pulsar using Irish-LOFAR station."
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: University of Galway
+        position: Lab Leader, Physics 2nd Year Undergraduate Labs
+        location: Galway, Ireland
+        start_date: 2023-09
+        end_date: 2024-04
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: University of Galway
+        position: Lab Leader, Physics 1st Year Undergraduate Labs
+        location: Galway, Ireland
+        start_date: 2021-09
+        end_date: 2021-12
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    "Telescope Proposals & Observing":
+      - company: LOFAR Core Proposal LC20_029
+        position: "Tracing the Heliosphere with Pulsars (PI)"
+        start_date: 2023-06
+        end_date: 2023-06
+        summary: Allocated 24.5 hours.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: LOFAR Core Proposal LC18_016
+        position: "Tracing the Heliosphere with Pulsars (PI)"
+        start_date: 2022-06
+        end_date: 2022-06
+        summary: Allocated 10.5 hours.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: Irish-LOFAR Station
+        position: Chief Observer
+        start_date: 2021-09
+        end_date: 2025-08
+        summary: Handling the observations and processing of data.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - company: German Long Wavelength LOFAR Stations
+        position: Observation Scheduler
+        start_date: 2023-09
+        end_date: 2025-01
+        summary: Scheduling and processing of observations.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: uGMRT Proposal 42_020
+        position: Co-observer
+        start_date: 2022-05
+        end_date: 2022-05
+        summary: Star-planet interactions in the AU Mic planetary system.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - company: uGMRT — Indian Pulsar Timing Array Project
+        position: Co-observer
+        start_date: 2019-04
+        end_date: 2021-09
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    "Memberships of Collaborations":
+      - company: Square Kilometre Array Pulsar Working Group
+        position: Member
+        start_date: 2024-08
+        end_date: present
 
-      - name: English
-        summary: "Fluent"
+      - company: LOFAR Pulsar Working Group
+        position: Member
+        start_date: 2022-02
+        end_date: present
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - company: European Pulsar Timing Array
+        position: Member
+        start_date: 2021-10
+        end_date: present
 
-    Certificates:
+      - company: International Pulsar Timing Array
+        position: Member
+        start_date: 2020-05
+        end_date: present
+
+      - company: Indian Pulsar Timing Array
+        position: Member
+        start_date: 2018-05
+        end_date: 2021-12
+
+    "Scholarships & Fellowships":
+      - title: APS FIP Distinguished Student Award
+        date: 2023-01
+        awarder: American Physical Society, Forum for International Physics
+
+      - title: College of Science and Engineering Fellowship
+        date: 2021-08
+        awarder: College of Science and Engineering, University of Galway
+
+      - title: International Merit Scholarship
+        date: 2021-08
+        awarder: University of Galway
+        summary: Covers the fees for graduate studies.
+
+      - title: Visiting Students Programme
+        date: 2017-06
+        awarder: National Centre for Radio Astrophysics – Tata Institute of Fundamental Research
+
+      - title: Inspire SHE Scholarship
+        date: 2016-09
+        awarder: Department of Science and Technology, Government of India
+
+    "Invited Talks":
+      - company: Shanghai Astronomical Observatory
+        position: "SHAO Seminar"
+        location: Shanghai, China
+        start_date: 2025-05
+        end_date: 2025-05
+        summary: "Radio eyes on the sky: Using pulsars to probe the Sun and detect Gravitational ripples."
+
+      - company: Royal Holloway, University of London
+        position: "CPPA Seminar"
+        location: London, UK
+        start_date: 2026-02
+        end_date: 2026-02
+        summary: Exploring the ecliptic pulsars using the low frequency telescopes.
+
+    "Contributed Talks & Posters":
+      - company: American Physical Society April Meeting 2023
+        position: Talk
+        location: Minnesota, USA
+        start_date: 2023-04
+        end_date: 2023-04
+        summary: Exploring the effects of Solar Wind on pulsars using the LOFAR telescope.
+
+      - company: 15th Edoardo Amaldi Conference on Gravitational Waves 2023
+        position: Poster
+        location: Virtual
+        start_date: 2023-06
+        end_date: 2023-06
+        summary: Exploring the effects of the Solar Wind on pulsars using the LOFAR telescope.
+
+      - company: Irish National Astronomical Meeting 2023
+        position: Talk
+        location: Cork, Ireland
+        start_date: 2023-08
+        end_date: 2023-08
+        summary: "Solar Wind effects and how to disentangle them?"
+
+      - company: European Pulsar Timing Array Fall Meeting 2023
+        position: Talk
+        location: Oxford, UK
+        start_date: 2023-11
+        end_date: 2023-11
+        summary: Exploring the effects of solar wind on pulsars.
+
+      - company: European Pulsar Timing Array Spring Meeting 2024
+        position: Talk
+        location: Saumur, France
+        start_date: 2024-03
+        end_date: 2024-03
+        summary: Exploring the time variability of solar wind using pulsars from the LOFAR dataset.
+
+      - company: International Pulsar Timing Array Meeting 2024
+        position: Talk
+        location: Sexten, Italy
+        start_date: 2024-06
+        end_date: 2024-06
+        summary: Exploring the time variability of solar wind and comparison with recent models for pulsars using the LOFAR dataset.
+
+      - company: University of Galway (Departmental Presentation)
+        position: Talk
+        location: Galway, Ireland
+        start_date: 2024-05
+        end_date: 2024-05
+        summary: Effects of Solar wind on LOFAR pulsar data.
+
+      - company: University of Galway (Physics Seminar)
+        position: Talk
+        location: Galway, Ireland
+        start_date: 2024-10
+        end_date: 2024-10
+        summary: Pulsar observations using I-LOFAR.
+
+      - company: European Pulsar Timing Array Spring Meeting 2025
+        position: Talk
+        location: Bonn, Germany
+        start_date: 2025-05
+        end_date: 2025-05
+        summary: Solar wind model comparison and use cases for EPTA-LOFAR data combination.
+
+      - company: International Pulsar Timing Array Meeting 2026
+        position: Talk
+        location: Drakensberg, South Africa
+        start_date: 2026-06
+        end_date: 2026-06
+        summary: Modelling frequency evolution using Simulation-based inference techniques.
+
+    "Computational Skills":
+      - name: Programming Languages
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "C++, Python, LaTeX"
+
+      - name: Operating Systems
+        level: Proficient
+        icon: fa-solid fa-desktop
+        keywords: "Linux, macOS"
+
+      - name: Scientific Software
+        level: Working knowledge
+        icon: fa-solid fa-square-root-variable
+        keywords: "MATLAB, Mathematica"
+
+      - name: Pulsar Analysis Software
+        level: Proficient
+        icon: fa-solid fa-satellite-dish
+        keywords: "Tempo2, Sigproc, PSRCHIVE, PINT, ENTERPRISE, LIBSTEMPO"
+
       - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+        level: Proficient
+        icon: fa-solid fa-robot
+        keywords: "Simulation-Based Inference (SBI)"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Numerical Methods
+        level: Proficient
+        icon: fa-solid fa-calculator
+        keywords: "Spherical Harmonic Transforms, Linear Algebra, HEALPix (CMB data analysis)"
