@@ -62,228 +62,53 @@ cv:
           - Simulation Based Inference
 
     Teaching:
-      - company: University of Galway
-        position: Lab Leader, Physics 2nd Year Undergraduate Labs
-        location: Galway, Ireland
-        start_date: 2024-09
-        end_date: 2025-04
-
-      - company: University of Galway
-        position: Summer Project Supervisor
-        location: Galway, Ireland
-        start_date: 2024-07
-        end_date: 2024-08
-        summary: "Title: Single pulses of the Crab pulsar using Irish-LOFAR station."
-
-      - company: University of Galway
-        position: Lab Leader, Physics 2nd Year Undergraduate Labs
-        location: Galway, Ireland
-        start_date: 2023-09
-        end_date: 2024-04
-
-      - company: University of Galway
-        position: Lab Leader, Physics 1st Year Undergraduate Labs
-        location: Galway, Ireland
-        start_date: 2021-09
-        end_date: 2021-12
+      - bullet: "**University of Galway** — Lab Leader, Physics 2nd Year Undergraduate Labs (Sep 2024 – Apr 2025)"
+      - bullet: "**University of Galway** — Summer Project Supervisor (Jul 2024 – Aug 2024). Title: Single pulses of the Crab pulsar using Irish-LOFAR station."
+      - bullet: "**University of Galway** — Lab Leader, Physics 2nd Year Undergraduate Labs (Sep 2023 – Apr 2024)"
+      - bullet: "**University of Galway** — Lab Leader, Physics 1st Year Undergraduate Labs (Sep 2021 – Dec 2021)"
 
     "Telescope Proposals & Observing":
-      - company: LOFAR Core Proposal LC20_029
-        position: "Tracing the Heliosphere with Pulsars (PI)"
-        start_date: 2023-06
-        end_date: 2023-06
-        summary: Allocated 24.5 hours.
-
-      - company: LOFAR Core Proposal LC18_016
-        position: "Tracing the Heliosphere with Pulsars (PI)"
-        start_date: 2022-06
-        end_date: 2022-06
-        summary: Allocated 10.5 hours.
-
-      - company: Irish-LOFAR Station
-        position: Chief Observer
-        start_date: 2021-09
-        end_date: 2025-08
-        summary: Handling the observations and processing of data.
-
-      - company: German Long Wavelength LOFAR Stations
-        position: Observation Scheduler
-        start_date: 2023-09
-        end_date: 2025-01
-        summary: Scheduling and processing of observations.
-
-      - company: uGMRT Proposal 42_020
-        position: Co-observer
-        start_date: 2022-05
-        end_date: 2022-05
-        summary: Star-planet interactions in the AU Mic planetary system.
-
-      - company: uGMRT — Indian Pulsar Timing Array Project
-        position: Co-observer
-        start_date: 2019-04
-        end_date: 2021-09
+      - bullet: "**LOFAR Core Proposal LC20_029** — Tracing the Heliosphere with Pulsars (PI). Allocated 24.5 hours. (Jun 2023)"
+      - bullet: "**LOFAR Core Proposal LC18_016** — Tracing the Heliosphere with Pulsars (PI). Allocated 10.5 hours. (Jun 2022)"
+      - bullet: "**Irish-LOFAR Station** — Chief Observer, handling the observations and processing of data (Sep 2021 – Aug 2025)"
+      - bullet: "**German Long Wavelength LOFAR Stations** — Scheduling and processing of observations (Sep 2023 – Jan 2025)"
+      - bullet: "**uGMRT Proposal 42_020** — Co-observer. Star-planet interactions in the AU Mic planetary system (May 2022)"
+      - bullet: "**uGMRT — Indian Pulsar Timing Array Project** — Co-observer (Apr 2019 – Sep 2021)"
 
     "Memberships of Collaborations":
-      - company: Square Kilometre Array Pulsar Working Group
-        position: Member
-        start_date: 2024-08
-        end_date: present
-
-      - company: LOFAR Pulsar Working Group
-        position: Member
-        start_date: 2022-02
-        end_date: present
-
-      - company: European Pulsar Timing Array
-        position: Member
-        start_date: 2021-10
-        end_date: present
-
-      - company: International Pulsar Timing Array
-        position: Member
-        start_date: 2020-05
-        end_date: present
-
-      - company: Indian Pulsar Timing Array
-        position: Member
-        start_date: 2018-05
-        end_date: 2021-12
+      - bullet: "**Square Kilometre Array Pulsar Working Group** — Member (Aug 2024 – Present)"
+      - bullet: "**LOFAR Pulsar Working Group** — Member (Feb 2022 – Present)"
+      - bullet: "**European Pulsar Timing Array** — Member (Oct 2021 – Present)"
+      - bullet: "**International Pulsar Timing Array** — Member (May 2020 – Present)"
+      - bullet: "**Indian Pulsar Timing Array** — Member (May 2018 – Dec 2021)"
 
     "Scholarships & Fellowships":
-      - title: APS FIP Distinguished Student Award
-        date: 2023-01
-        awarder: American Physical Society, Forum for International Physics
-
-      - title: College of Science and Engineering Fellowship
-        date: 2021-08
-        awarder: College of Science and Engineering, University of Galway
-
-      - title: International Merit Scholarship
-        date: 2021-08
-        awarder: University of Galway
-        summary: Covers the fees for graduate studies.
-
-      - title: Visiting Students Programme
-        date: 2017-06
-        awarder: National Centre for Radio Astrophysics – Tata Institute of Fundamental Research
-
-      - title: Inspire SHE Scholarship
-        date: 2016-09
-        awarder: Department of Science and Technology, Government of India
+      - bullet: "**APS FIP Distinguished Student Award** — American Physical Society, Forum for International Physics (Jan 2023)"
+      - bullet: "**College of Science and Engineering Fellowship** — College of Science and Engineering, University of Galway (Aug 2021)"
+      - bullet: "**International Merit Scholarship** — University of Galway. Covers the fees for graduate studies. (Aug 2021)"
+      - bullet: "**Visiting Students Programme** — National Centre for Radio Astrophysics – Tata Institute of Fundamental Research (Jun 2017)"
+      - bullet: "**Inspire SHE Scholarship** — Department of Science and Technology, Government of India (Sep 2016)"
 
     "Invited Talks":
-      - company: Shanghai Astronomical Observatory
-        position: "SHAO Seminar"
-        location: Shanghai, China
-        start_date: 2025-05
-        end_date: 2025-05
-        summary: "Radio eyes on the sky: Using pulsars to probe the Sun and detect Gravitational ripples."
-
-      - company: Royal Holloway, University of London
-        position: "CPPA Seminar"
-        location: London, UK
-        start_date: 2026-02
-        end_date: 2026-02
-        summary: Exploring the ecliptic pulsars using the low frequency telescopes.
+      - bullet: '**SHAO Seminar**, Shanghai Astronomical Observatory, Shanghai, China (May 2025) — "Radio eyes on the sky: Using pulsars to probe the Sun and detect Gravitational ripples."'
+      - bullet: '**CPPA Seminar**, Royal Holloway, University of London, London, UK (Feb 2026) — "Exploring the ecliptic pulsars using the low frequency telescopes"'
 
     "Contributed Talks & Posters":
-      - company: American Physical Society April Meeting 2023
-        position: Talk
-        location: Minnesota, USA
-        start_date: 2023-04
-        end_date: 2023-04
-        summary: Exploring the effects of Solar Wind on pulsars using the LOFAR telescope.
-
-      - company: 15th Edoardo Amaldi Conference on Gravitational Waves 2023
-        position: Poster
-        location: Virtual
-        start_date: 2023-06
-        end_date: 2023-06
-        summary: Exploring the effects of the Solar Wind on pulsars using the LOFAR telescope.
-
-      - company: Irish National Astronomical Meeting 2023
-        position: Talk
-        location: Cork, Ireland
-        start_date: 2023-08
-        end_date: 2023-08
-        summary: "Solar Wind effects and how to disentangle them?"
-
-      - company: European Pulsar Timing Array Fall Meeting 2023
-        position: Talk
-        location: Oxford, UK
-        start_date: 2023-11
-        end_date: 2023-11
-        summary: Exploring the effects of solar wind on pulsars.
-
-      - company: European Pulsar Timing Array Spring Meeting 2024
-        position: Talk
-        location: Saumur, France
-        start_date: 2024-03
-        end_date: 2024-03
-        summary: Exploring the time variability of solar wind using pulsars from the LOFAR dataset.
-
-      - company: International Pulsar Timing Array Meeting 2024
-        position: Talk
-        location: Sexten, Italy
-        start_date: 2024-06
-        end_date: 2024-06
-        summary: Exploring the time variability of solar wind and comparison with recent models for pulsars using the LOFAR dataset.
-
-      - company: University of Galway (Departmental Presentation)
-        position: Talk
-        location: Galway, Ireland
-        start_date: 2024-05
-        end_date: 2024-05
-        summary: Effects of Solar wind on LOFAR pulsar data.
-
-      - company: University of Galway (Physics Seminar)
-        position: Talk
-        location: Galway, Ireland
-        start_date: 2024-10
-        end_date: 2024-10
-        summary: Pulsar observations using I-LOFAR.
-
-      - company: European Pulsar Timing Array Spring Meeting 2025
-        position: Talk
-        location: Bonn, Germany
-        start_date: 2025-05
-        end_date: 2025-05
-        summary: Solar wind model comparison and use cases for EPTA-LOFAR data combination.
-
-      - company: International Pulsar Timing Array Meeting 2026
-        position: Talk
-        location: Drakensberg, South Africa
-        start_date: 2026-06
-        end_date: 2026-06
-        summary: Modelling frequency evolution using Simulation-based inference techniques.
+      - bullet: "**Talk** — American Physical Society April Meeting 2023, Minnesota, USA (Apr 2023): Exploring the effects of Solar Wind on pulsars using the LOFAR telescope."
+      - bullet: "**Poster** — 15th Edoardo Amaldi Conference on Gravitational Waves 2023, Virtual (Jun 2023): Exploring the effects of the Solar Wind on pulsars using the LOFAR telescope."
+      - bullet: "**Talk** — Irish National Astronomical Meeting 2023, Cork, Ireland (Aug 2023): Solar Wind effects and how to disentangle them?"
+      - bullet: "**Talk** — European Pulsar Timing Array Fall Meeting 2023, Oxford, UK (Nov 2023): Exploring the effects of solar wind on pulsars."
+      - bullet: "**Talk** — European Pulsar Timing Array Spring Meeting 2024, Saumur, France (Mar 2024): Exploring the time variability of solar wind using pulsars from the LOFAR dataset."
+      - bullet: "**Talk** — International Pulsar Timing Array Meeting 2024, Sexten, Italy (Jun 2024): Exploring the time variability of solar wind and comparison with recent models for pulsars using the LOFAR dataset."
+      - bullet: "**Talk** — Departmental Presentation, University of Galway, Ireland (May 2024): Effects of Solar wind on LOFAR pulsar data."
+      - bullet: "**Talk** — Physics Seminar, University of Galway, Ireland (Oct 2024): Pulsar observations using I-LOFAR."
+      - bullet: "**Talk** — European Pulsar Timing Array Spring Meeting 2025, Bonn, Germany (May 2025): Solar wind model comparison and use cases for EPTA-LOFAR data combination."
+      - bullet: "**Talk** — International Pulsar Timing Array Meeting 2026, Drakensberg, South Africa (Jun 2026): Modelling frequency evolution using Simulation-based inference techniques"
 
     "Computational Skills":
-      - name: Programming Languages
-        level: Proficient
-        icon: fa-solid fa-code
-        keywords: "C++, Python, LaTeX"
-
-      - name: Operating Systems
-        level: Proficient
-        icon: fa-solid fa-desktop
-        keywords: "Linux, macOS"
-
-      - name: Scientific Software
-        level: Working knowledge
-        icon: fa-solid fa-square-root-variable
-        keywords: "MATLAB, Mathematica"
-
-      - name: Pulsar Analysis Software
-        level: Proficient
-        icon: fa-solid fa-satellite-dish
-        keywords: "Tempo2, Sigproc, PSRCHIVE, PINT, ENTERPRISE, LIBSTEMPO"
-
-      - name: Machine Learning
-        level: Proficient
-        icon: fa-solid fa-robot
-        keywords: "Simulation-Based Inference (SBI)"
-
-      - name: Numerical Methods
-        level: Proficient
-        icon: fa-solid fa-calculator
-        keywords: "Spherical Harmonic Transforms, Linear Algebra, HEALPix (CMB data analysis)"
+      - bullet: "**Programming Languages:** C++, Python, LaTeX"
+      - bullet: "**Operating Systems:** Linux, macOS"
+      - bullet: "**Scientific Software:** MATLAB, Mathematica (working knowledge)"
+      - bullet: "**Pulsar Analysis Software:** Tempo2, Sigproc, PSRCHIVE, PINT, ENTERPRISE, LIBSTEMPO"
+      - bullet: "**Machine Learning:** Simulation-Based Inference (SBI)"
+      - bullet: "**Numerical Methods:** Spherical Harmonic Transforms, Linear Algebra, HEALPix (CMB data analysis)"

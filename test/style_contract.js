@@ -65,9 +65,34 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
+// Tracked, deliberate local overrides for this personal site (see docs/ARCHITECTURE.md
+// "Local overrides: your site vs. this repo"). Anything else under the forbidden paths
+// below still fails the contract.
+const ALLOWED_LOCAL_OVERRIDES = ["_includes/header.liquid"];
+
+const listFilesRecursive = (relPath) => {
+  const abs = path.join(root, relPath);
+  if (!fs.existsSync(abs)) return [];
+  if (!fs.statSync(abs).isDirectory()) return [relPath];
+  const out = [];
+  const walk = (dir) => {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, entry.name);
+      if (entry.isDirectory()) walk(full);
+      else out.push(path.relative(root, full).split(path.sep).join("/"));
+    }
+  };
+  walk(abs);
+  return out;
+};
+
 for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
-  if (exists(forbiddenPath)) {
-    failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
+  if (!exists(forbiddenPath)) continue;
+  const unexpected = listFilesRecursive(forbiddenPath).filter((f) => !ALLOWED_LOCAL_OVERRIDES.includes(f));
+  if (unexpected.length > 0) {
+    failures.push(
+      `Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem. Unexpected file(s): ${unexpected.join(", ")}`
+    );
   }
 }
 
