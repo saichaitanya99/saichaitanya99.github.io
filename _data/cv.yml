@@ -32,7 +32,7 @@ cv:
         Thesis Title: "Examining Ecliptic pulsars using the low-frequency radio telescopes"
 
       - institution: Indian Institute of Science Education and Research (IISER) Thiruvananthapuram
-        location: Thiruvananthapuram, India
+        location: Trivandrum, India
         area: Physics
         studyType: Integrated BSc. + M.Sc. (Dual Degree)
         start_date: 2016
@@ -68,6 +68,7 @@ cv:
       - bullet: "**University of Galway** — Lab Leader, Physics 1st Year Undergraduate Labs (Sep 2021 – Dec 2021)"
 
     "Telescope Proposals & Observing":
+      - bullet: "**uGMRT proposal 51_050** — Co-observer. PILLARs project -  scintillation observations. Allocated 23 hours. (Oct 2026)"
       - bullet: "**LOFAR Core Proposal LC20_029** — Tracing the Heliosphere with Pulsars (PI). Allocated 24.5 hours. (Jun 2023)"
       - bullet: "**LOFAR Core Proposal LC18_016** — Tracing the Heliosphere with Pulsars (PI). Allocated 10.5 hours. (Jun 2022)"
       - bullet: "**Irish-LOFAR Station** — Chief Observer, handling the observations and processing of data (Sep 2021 – Aug 2025)"
@@ -109,7 +110,6 @@ cv:
 
     "Computational Skills":
       - bullet: "**Programming Languages:** C++, Python, LaTeX"
-      - bullet: "**Operating Systems:** Linux, macOS"
       - bullet: "**Scientific Software:** MATLAB, Mathematica (working knowledge)"
       - bullet: "**Pulsar Analysis Software:** Tempo2, Sigproc, PSRCHIVE, PINT, ENTERPRISE, LIBSTEMPO"
       - bullet: "**Machine Learning:** Simulation-Based Inference (SBI)"
