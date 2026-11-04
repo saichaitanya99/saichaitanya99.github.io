@@ -1,4 +1,5 @@
 ---
+published: false
 layout: book-shelf
 title: Bookshelf
 permalink: /books/

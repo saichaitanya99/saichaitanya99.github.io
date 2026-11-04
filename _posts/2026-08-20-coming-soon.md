@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: Blog coming soon
 date: 2026-08-20 00:00:00+0000

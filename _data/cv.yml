@@ -44,9 +44,9 @@ cv:
       - company: University of Southampton
         position: Postdoctoral Researcher
         location: Southampton, UK
-        start_date: 2026-06
+        start_date: 2026-05
         end_date: present
-        summary: The main focus of my research is to develop machine learning techniques to perform profile domain timing of pulsars.
+        summary: "Project title: Profile domain timing using machine learning techniques."
         highlights:
           - Pulsar timing
           - Simulation Based Inference
@@ -56,7 +56,7 @@ cv:
         location: Egham, Surrey, UK
         start_date: 2025-10
         end_date: 2026-05
-        summary: The main focus of my research is to develop machine learning techniques to perform profile domain timing of pulsars.
+        summary: "Project title: Inferring the timing properties of neutron stars with hierarchical profile-domain timing."
         highlights:
           - Pulsar timing
           - Simulation Based Inference
@@ -90,6 +90,7 @@ cv:
       - bullet: "**Inspire SHE Scholarship** — Department of Science and Technology, Government of India (Sep 2016)"
 
     "Invited Talks":
+      - bullet: '**Scintillometry 2026 Workshop**, Cornell University, USA (Oct 2026) — "If you can simulate, can you measure it?"'
       - bullet: '**SHAO Seminar**, Shanghai Astronomical Observatory, Shanghai, China (May 2025) — "Radio eyes on the sky: Using pulsars to probe the Sun and detect Gravitational ripples."'
       - bullet: '**CPPA Seminar**, Royal Holloway, University of London, London, UK (Feb 2026) — "Exploring the ecliptic pulsars using the low frequency telescopes"'
 
@@ -104,6 +105,7 @@ cv:
       - bullet: "**Talk** — Physics Seminar, University of Galway, Ireland (Oct 2024): Pulsar observations using I-LOFAR."
       - bullet: "**Talk** — European Pulsar Timing Array Spring Meeting 2025, Bonn, Germany (May 2025): Solar wind model comparison and use cases for EPTA-LOFAR data combination."
       - bullet: "**Talk** — International Pulsar Timing Array Meeting 2026, Drakensberg, South Africa (Jun 2026): Modelling frequency evolution using Simulation-based inference techniques"
+      - bullet: "**Talk** — SPINS UK 2026, Bath, UK (Sep 2026): Simulation-based inference of profile evolution for high precision pulsar timing."
 
     "Computational Skills":
       - bullet: "**Programming Languages:** C++, Python, LaTeX"

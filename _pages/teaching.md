@@ -1,16 +1,23 @@
 ---
 layout: page
-published: false
 permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Laboratory teaching and student supervision.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## University of Galway
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**Lab Leader, Physics 2nd Year Undergraduate Labs**<br>
+Sep 2024 – Apr 2025
 
-{% include courses.liquid %}
+**Summer Project Supervisor**<br>
+Jul 2024 – Aug 2024<br>
+Project: _Single pulses of the Crab pulsar using the Irish LOFAR station._
+
+**Lab Leader, Physics 2nd Year Undergraduate Labs**<br>
+Sep 2023 – Apr 2024
+
+**Lab Leader, Physics 1st Year Undergraduate Labs**<br>
+Sep 2021 – Dec 2021
